@@ -1,7 +1,7 @@
-# [MERA: Mixture of Experts with Retrieval-Augmented Representation for Modeling Diversified Stock Patterns]
+# [WWW2025: Mixture of Experts with Retrieval-Augmented Representation for Modeling Diversified Stock Patterns]
 
 This repository contains the official implementation of our WWW 2025 paper:  
-[[ACM Digital Library]](https://dl.acm.org/doi/10.1145/3701716.3715513) 
+[[Mixture of Experts with Retrieval-Augmented Representation for Modeling Diversified Stock Patterns]](https://dl.acm.org/doi/10.1145/3701716.3715513) 
 
 ## 📌 Abstract
 
