@@ -11,6 +11,8 @@ Successful quantitative investment relies on accurate predictions of the future 
 
 
 ## 📌 Citation
+
+```bibtex
 @inproceedings{10.1145/3701716.3715513,
 author = {Liu, YuJun and Song, Chen-Hui and Liu, Peiyuan and Li, Naiqi and Dai, Tao and Bao, Jigang and Jiang, Yong and Xia, Shu-Tao},
 title = {MERA: Mixture of Experts with Retrieval-Augmented Representation for Modeling Diversified Stock Patterns},
