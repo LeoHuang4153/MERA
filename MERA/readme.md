@@ -9,6 +9,8 @@ Successful quantitative investment relies on accurate predictions of the future 
 
 ## 📌 Overview
 
+<img src="assets/teaser.png" width="800" alt="Framework">
+
 
 ## 📌 Citation
 
